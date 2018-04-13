@@ -24,7 +24,7 @@ Now I'll never have to use that cursed perl script again!
 
 Install easily with *npm*!
 
-    npm install ldif
+    npm install ldif-hufsm
 
 ### Parsing
 
